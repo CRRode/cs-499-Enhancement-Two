@@ -1,3 +1,8 @@
+//Christopher Rode
+//Date: 3/31/24
+//version 2.1
+//This class abstracts camera functionality for OpenGL applications, providing methods for movement, rotation, and zooming, along with calculating the view matrix for rendering scenes from the camera's perspective.
+
 #ifndef CAMERA_H
 #define CAMERA_H
 
