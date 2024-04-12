@@ -1,3 +1,8 @@
+//Christopher Rode
+//Date: 3/31/24
+//version 2.1
+//this code is responsible for setting up our shaders and is retreveing data from our shader files. 
+
 #ifndef SHADER_H
 #define SHADER_H
 
