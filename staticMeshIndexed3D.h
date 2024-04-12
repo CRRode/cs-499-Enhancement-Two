@@ -1,3 +1,8 @@
+//Christopher Rode
+//Date: 3/31/24
+//version 2.1
+//this code represents generic 3D static mesh rendered with indexed rendering.
+
 #pragma once
 // Project
 #include "staticMesh3D.h"
