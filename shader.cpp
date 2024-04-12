@@ -1,3 +1,8 @@
+//Christopher Rode
+//Date: 3/31/24
+//version 2.1
+//this code reads compiles and checks our fragment shader and vertex shader. 
+
 #include <stdio.h>
 #include <string>
 #include <vector>
