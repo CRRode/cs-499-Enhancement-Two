@@ -1,3 +1,8 @@
+//Christopher Rode
+//Date: 3/31/24
+//version 2.1
+//This class encapsulates the functionality related to creating, managing, and uploading data to VBOs in OpenGL applications. It provides methods for creating, binding, adding data, uploading data to the GPU, mapping buffers to memory, and deleting VBOs, among other operation
+
 #include <iostream>
 #include <cstring>
 
