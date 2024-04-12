@@ -1,3 +1,8 @@
+//Christopher Rode
+//Date: 3/31/24
+//version 2.1
+//This code provides a foundation for managing static 3D meshes in an OpenGL application, including initialization, attribute setup, and memory management
+
 #include "staticMesh3D.h"
 #include <glm/glm.hpp>
 
