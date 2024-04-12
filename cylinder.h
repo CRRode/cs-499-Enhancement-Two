@@ -1,3 +1,8 @@
+//Christopher Rode
+//Date: 3/31/24
+//version 2.1
+//This class provides functionality to create and render a cylinder in a 3D scene, allowing customization of its dimensions and appearance.
+
 #pragma once
 #include "staticMesh3D.h"
 
