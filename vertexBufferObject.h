@@ -1,3 +1,8 @@
+//Christopher Rode
+//Date: 3/31/24
+//version 2.1
+// this code Wraps OpenGL's vertex buffer object to a convenient higher level class and loads data to the gpu. 
+
 #pragma once
 #include <vector>
 
