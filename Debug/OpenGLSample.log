@@ -1,0 +1,34 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGLSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ShapeGenerator.cpp
+C:\Users\crode\Downloads\OpenGLSample22\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\crode\Downloads\OpenGLSample22\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(30,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\crode\Downloads\OpenGLSample22\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(33,28): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\crode\Downloads\OpenGLSample22\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(34,28): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\crode\Downloads\OpenGLSample22\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(49,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\crode\Downloads\OpenGLSample22\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(51,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\crode\Downloads\OpenGLSample22\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(96,37): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\crode\Downloads\OpenGLSample22\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(97,37): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\crode\Downloads\OpenGLSample22\OpenGLSample\OpenGLSample\ShapeGenerator.cpp(98,26): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  staticMesh3D.cpp
+  Generating Code...
+  OpenGLSample.vcxproj -> C:\Users\crode\Downloads\OpenGLSample22\OpenGLSample\Debug\OpenGL project Rode.exe
