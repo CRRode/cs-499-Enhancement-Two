@@ -1,3 +1,8 @@
+//Christopher Rode
+//Date: 3/31/24
+//version 2.1
+//this code creates our staticmesh3D functions
+
 #pragma once
 // Project
 #include "vertexBufferObject.h"
