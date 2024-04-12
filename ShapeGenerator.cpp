@@ -1,3 +1,8 @@
+//Christopher Rode
+//Date: 3/31/24
+//version 2.1
+// this code provides a utility for creating basic shapes like planes and spheres. 
+
 #include "ShapeGenerator.h"
 //#include <glm\glm.hpp>
 //#include <glm\gtc\matrix_transform.hpp>
