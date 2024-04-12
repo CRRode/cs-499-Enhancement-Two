@@ -1,4 +1,9 @@
-﻿#include <glad/glad.h>
+﻿//Christopher Rode
+//Date: 3/31/24
+//version 2.1
+//this code sets up a 3D scene with lighting, multiple objects, and user interaction. 
+
+#include <glad/glad.h>
 #include <GLFW/glfw3.h>
 
 #define STB_IMAGE_IMPLEMENTATION
