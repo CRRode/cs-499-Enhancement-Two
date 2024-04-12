@@ -1,3 +1,8 @@
+//Christopher Rode
+//Date: 3/31/24
+//version 2.1
+//This class encapsulates mesh data and provides functionality to render the mesh using OpenGL commands. It includes methods for setting up the mesh data, binding textures, and rendering the mesh with a shader.
+
 #ifndef MESH_H
 #define MESH_H
 
