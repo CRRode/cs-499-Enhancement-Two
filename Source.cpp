@@ -549,7 +549,7 @@ int main()
 		Created sphere instancing algorithm for the tennis ball.
 		This approach benefits from OpenGL instancing, resulting in better performance, reduced overhead compared to drawing each sphere separately
 		and less redundant code required in the future.
-		Time complexity remains the same since we are only creating one sphere right now but is set up like the  cylinders for less redundant code and better performance in the future.
+		Time complexity remains the same since we are only creating one sphere right now but is set up like the cylinders for less redundant code and better performance in the future.
 		*/
 		glActiveTexture(GL_TEXTURE0);
 		glBindTexture(GL_TEXTURE_2D, spec);
